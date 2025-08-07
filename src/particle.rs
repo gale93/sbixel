@@ -117,8 +117,8 @@ impl ParticleSystem {
 
     fn analyze_sector(&mut self, sector_index: usize) -> bool {
         let (start_x, start_y) = self.get_sector_coordinates(sector_index);
-let end_x = (start_x + self.sector_size + 1).min(def::WIDTH);
-let end_y = (start_y + self.sector_size + 1).min(def::HEIGHT);  
+        let end_x = (start_x + self.sector_size + 1).min(def::WIDTH);
+        let end_y = (start_y + self.sector_size + 1).min(def::HEIGHT);  
 
         let mut active = false;
         
