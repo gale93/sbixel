@@ -3,6 +3,12 @@
 **Sbixel** is a very simple pixel physics simulator I made to learn Rust.  
 It uses [macroquad](https://github.com/not-fl3/macroquad) for drawing — and I was pleasantly surprised by how simple and awesome it is!
 
+**Quick demo (click for youtube link):**
+
+[![Watch the video](https://img.youtube.com/vi/HC_0ff91lWg/hqdefault.jpg)](https://www.youtube.com/watch?v=HC_0ff91lWg)
+
+
+
 > ⚠️ This project is very basilar and doesn't have much ambition to go anywhere — it's mainly a learning sandbox.
 
 ## How It Works
